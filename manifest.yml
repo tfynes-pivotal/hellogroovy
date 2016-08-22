@@ -1,0 +1,6 @@
+---
+applications:
+- name: tmf-hg
+  memory: 256M
+  host: tmf-hg
+
